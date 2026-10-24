@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "version": "0.2.0-native.4",
+  "sequence": 4,
+  "compatibility": 1,
+  "platform": "win-x64",
+  "channel": "native-preview",
+  "approved": false,
+  "sha256": "140373454d79b315c18dfe54266978fd90ce40fe6f7fda8992d7df530dd5637f",
+  "size": 159362779,
+  "url": "https://github.com/Getwrongg/littlepilot-releases/releases/download/native-0.2.0-native.4/LittlePilot-NET-Setup-0.2.0-native.4.exe",
+  "notes": "Native Windows Workbench with bundled .NET SDK, isolated evaluator and planning kits; project Delete/Retry and verified installer updates. Unsigned candidate."
+}
