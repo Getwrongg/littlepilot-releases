@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-native.5",
-  "sequence": 5,
+  "version": "0.2.0-native.6",
+  "sequence": 6,
   "compatibility": 1,
   "platform": "win-x64",
   "channel": "native-preview",
   "approved": true,
-  "sha256": "c4d4f4d15581f4af06eb6bc661d228badf55b91e4afacabe6be8fb6ce0ed0acd",
-  "size": 159367694,
-  "url": "https://github.com/Getwrongg/littlepilot-releases/releases/download/native-0.2.0-native.5/LittlePilot-NET-Setup-0.2.0-native.5.exe",
-  "notes": "Native Windows Workbench with bundled SDK, isolated evaluator and planning kits; plain headings, saved light/dark themes, project Delete/Retry and verified installer updates. Unsigned candidate."
+  "sha256": "5f16bc8a32a5f225565ba471d4d4ad998c8fdd923d5a19df76e9358e05a45f17",
+  "size": 158658778,
+  "url": "https://github.com/Getwrongg/littlepilot-releases/releases/download/native-0.2.0-native.6/LittlePilot-NET-Setup-0.2.0-native.6.exe",
+  "notes": "Native Windows x64 preview with bundled .NET SDK 10.0.402 and runtime 10.0.13, isolated evaluator, workspace recovery and verified installer updates. Unsigned. Preserve workspaces: native.5 cannot read native.6 version-3 evaluator receipts; use native.6 to recover those workspaces."
 }
